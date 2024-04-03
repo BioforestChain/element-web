@@ -64,6 +64,7 @@ export default class VectorAuthPage extends React.PureComponent {
 
         const modalContentStyle: React.CSSProperties = {
             display: "flex",
+            flexDirection: "column-reverse",
             zIndex: 1,
             background: "rgba(255, 255, 255, 0.59)",
             borderRadius: "8px",

@@ -1,0 +1,16 @@
+{
+  "id": "betamatrixchatapp.btcmetaswap.com.dweb",
+  "name": "Open Matrix(Beta)",
+  "short_name": "Open Matrix(Beta)",
+  "description": "This is an dweb chat matrix app.",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/openchat/logo.png",
+  "images": [
+  ],
+  "author": ["bfs", "bfs@bfs.com"],
+  "version": "0.0.1",
+  "change_log": "Fix IOS UI bug",
+  "home": "",
+  "categories": ["application"],
+  "lang": "zh-Hans",
+  "languages": []
+}

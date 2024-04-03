@@ -1,0 +1,126 @@
+{
+  "id": "betamatrixchatapp.btcmetaswap.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 2,
+  "maxTarget": 2,
+  "name": "Open Matrix(Beta)",
+  "short_name": "Open Matrix(Beta)",
+  "description": "This is an dweb chat matrix app.",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/openchat/logo.png",
+  "bundle_url": "./betamatrixchatapp.btcmetaswap.com.dweb-0.0.1.zip",
+  "bundle_hash": "sha256:7b3f7c40b974304a1b9ca017564f2d821e8e30922a7f6bbfea733bd1a231d1ed",
+  "bundle_size": 23627657,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Thu Mar 14 2024 16:49:34 GMT+0800 (China Standard Time)",
+  "change_log": "Fix IOS UI bug",
+  "images": [],
+  "author": [
+    "bfs",
+    "bfs@bfs.com"
+  ],
+  "version": "0.0.1",
+  "categories": [
+    "application"
+  ],
+  "languages": [],
+  "homepage_url": "https://dweb-browser.org/plaoc",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "zh-Hans",
+  "icons": [
+    {
+      "src": "/vector-icons/44.png",
+      "sizes": "44x44",
+      "type": "image/png"
+    },
+    {
+      "src": "/vector-icons/1240x600.png",
+      "sizes": "1240x600",
+      "type": "image/png"
+    },
+    {
+      "src": "/vector-icons/300.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    },
+    {
+      "src": "/vector-icons/150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    },
+    {
+      "src": "/vector-icons/88.png",
+      "sizes": "88x88",
+      "type": "image/png"
+    },
+    {
+      "src": "/vector-icons/24.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "/vector-icons/50.png",
+      "sizes": "50x50",
+      "type": "image/png"
+    },
+    {
+      "src": "/vector-icons/620x300.png",
+      "sizes": "620x300",
+      "type": "image/png"
+    },
+    {
+      "src": "/vector-icons/1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/vector-icons/180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/vector-icons/152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/vector-icons/120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/vector-icons/76.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [],
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#76CFA6",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "",
+  "start_url": "index.html",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=im.vector.app",
+      "id": "im.vector.app"
+    },
+    {
+      "platform": "f-droid",
+      "url": "https://f-droid.org/repository/browse/?fdid=im.vector.app",
+      "id": "im.vector.app"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/app/vector/id1083446067"
+    }
+  ]
+}
